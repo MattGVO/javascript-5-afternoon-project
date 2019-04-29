@@ -14,7 +14,7 @@
   The values for the make and model will come from two parameters, make and model (in that order).
 */
 
-// Code here
+
 
 ////////// PROBLEM 2 //////////
 
